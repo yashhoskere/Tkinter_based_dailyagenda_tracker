@@ -1,0 +1,1 @@
+This poject tries to make a tkinter based GUI text editor tracker
